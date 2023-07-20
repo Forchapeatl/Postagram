@@ -8,7 +8,7 @@ import {
 } from "../hooks/user.actions";
 
 const axiosService = axios.create({
-  baseURL: process.env.REACT_APP_API_URL,
+  baseURL: 'https://postagram-one.vercel.app/',
   headers: {
     "Content-Type": "application/json",
   },
