@@ -8,7 +8,7 @@ import {
 } from "../hooks/user.actions";
 
 const axiosService = axios.create({
-  baseURL: 'https://postagram-django-forchapeatl.vercel.app',
+  baseURL: 'https://postagram-django-forchapeatl.vercel.app/api',
   headers: {
     "Content-Type": "application/json",
   },
