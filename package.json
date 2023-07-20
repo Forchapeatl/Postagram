@@ -3,7 +3,7 @@
   "homepage": ".",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://postagram-mozbedsv0-forchapeatl.vercel.app/",
   "dependencies": {
     "@ant-design/icons": "^5.0.0",
     "@reduxjs/toolkit": "^1.8.1",
