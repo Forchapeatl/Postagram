@@ -4,7 +4,7 @@ import axios from "axios";
 
 function useUserActions() {
   const navigate = useNavigate();
-  const baseURL = 'https://postagram-django-forchapeatl.vercel.app/';
+  const baseURL = 'https://postagram-django-forchapeatl.vercel.app';
 
   return {
     login,
